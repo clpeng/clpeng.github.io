@@ -22,7 +22,7 @@ description:
 </div>
 
 ***
-Chunlei Peng is a professor at School of Cyber Engineering, Xidian University. He is also a member of the Intelligent Information Processing Lab led by [Prof. Nannan Wang](https://web.xidian.edu.cn/nnwang/). He received his Ph.D degree from Xidian University supervised by [Prof. Xinbo Gao](http://see.xidian.edu.cn/faculty/xbgao/). He was a visiting scholar at Duke University, working with Prof. Sina Farsiu (IEEE Fellow). 
+Chunlei Peng is a professor at School of Cyber Engineering, Xidian University. He is also a member of the Intelligent Information Processing Lab led by [Prof. Nannan Wang](https://web.xidian.edu.cn/nnwang/){:target="_blank"}. He received his Ph.D degree from Xidian University supervised by [Prof. Xinbo Gao](http://see.xidian.edu.cn/faculty/xbgao/){:target="_blank"}. He was a visiting scholar at Duke University, working with Prof. Sina Farsiu (IEEE Fellow). 
 His research interests include computer vision and pattern recognition, and their applications in multimedia analysis and security (e.g. face generation & recognition, forgery detection, adversarial attack & defense, privacy protection). 
 
 ***
