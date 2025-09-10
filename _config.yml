@@ -9,7 +9,7 @@ email: clpeng@xidian.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage of Professor Chunlei Peng from Xidian University.
 footer_text: > 
-  Github Pages.
+
 keywords: Chunlei Peng, Xidian University, Computer Vision, Pattern Recognition, Machine Learning, Artificial Intelligence  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

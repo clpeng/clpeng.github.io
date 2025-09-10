@@ -36,31 +36,31 @@ His research interests include computer vision and pattern recognition, and thei
 ***
 ### Awards
 - 2024, The Innovation Capability Support Plan in Shaanxi Province <br>
-**陕西省青年科技新星**
+陕西省青年科技新星
 
 - 2023, WuWenJun AI Excellent Young Scientist Award <br>
-**吴文俊人工智能优秀青年奖**
+吴文俊人工智能优秀青年奖
 
 - 2023, First Prize of Hubei Provincial Technology Invention Award <br>
-**湖北省技术发明奖一等奖 (3/6)**
+湖北省技术发明奖一等奖 (3/6)
 
 - 2023, Supervisor for the CIE Master's Thesis Award <br>
-**指导研究生（王昱凯）入选中国电子学会硕士学位论文激励计划**
+指导研究生（王昱凯）入选中国电子学会硕士学位论文激励计划
 
 - 2022, Young Elite Scientists Sponsorship Program by CAST <br>
-**中国科协青年人才托举工程**
+中国科协青年人才托举工程
 
 - 2020, Second Prize of CSIG Natural Science Award <br>
-**中国图象图形学学会自然科学二等奖 (3/5)**
+中国图象图形学学会自然科学二等奖 (3/5)
 
 - 2020, Shaanxi Provincial Best Ph.D. Thesis Award <br>
-**陕西省优秀博士学位论文**
+陕西省优秀博士学位论文
 
 - 2018, CSIG Best Ph.D. Thesis Award <br>
-**中国图象图形学学会优秀博士论文奖**
+中国图象图形学学会优秀博士论文奖
 
 - 2018, ACM Xi'an Best Ph.D. Thesis Award <br>
-**ACM西安优博奖**
+ACM西安优博奖
 
 ***
 ### Biography

@@ -36,14 +36,12 @@ Since this section is for potential students in China, the page is written in Ch
 
 
 ***
-**一些优秀的资料**
-- 一些优秀的科研入门指南
-    - [科研入门培训](https://zxeupbuzh9y.feishu.cn/docx/ZDEsdpZtPosRWOxcBnkcF8Hknkd)
-    - [Learning Research](https://github.com/pengsida/learning_research)
-    - [科研 Re-Search](https://web.xidian.edu.cn/mrzhu/guidelines.html)
 
-- 其他科研资料
+- 一些优秀的阅读资料
     - 程明明老师：学术规范与论文写作课程 [[视频]](https://space.bilibili.com/599039271/lists/2314892?type=series)、[[课件]](https://mmcheng.net/writing/)
     - [学术论文常见格式问题](https://github.com/MLNLP-World/Paper-Writing-Tips)
+
+    - [致敬汤晓鸥：将港中文建成中国计算机视觉黄埔军校的人](https://mp.weixin.qq.com/s/2eTBDhgKRAz7ZZV-ISO--w)
+    - [2022 PaSS系列讲座 论文背后的故事](https://mp.weixin.qq.com/s/YvOY2YcTWxRaBdmAPoeN1Q)
     - [研究生读得好，人生就像开了挂](https://mp.weixin.qq.com/s/sdpugyZzErTQ77vM5OtSLg)
 
