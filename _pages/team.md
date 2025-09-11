@@ -9,11 +9,11 @@ nav_order: 3
 
 ### Academic Advisors
 
-[Xinbo Gao (高新波)](https://see.xidian.edu.cn/faculty/xbgao/)
+[Xinbo Gao (高新波)](https://see.xidian.edu.cn/faculty/xbgao/){:target="_blank"}
 
-[Ruimin Hu (胡瑞敏)](https://web.xidian.edu.cn/rmhu/index.html)
+[Ruimin Hu (胡瑞敏)](https://web.xidian.edu.cn/rmhu/index.html){:target="_blank"}
 
-[Nannan Wang (王楠楠)](https://web.xidian.edu.cn/nnwang/)
+[Nannan Wang (王楠楠)](https://web.xidian.edu.cn/nnwang/){:target="_blank"}
 
 ***
 ### Ph.D. Students 
