@@ -90,7 +90,7 @@ Hengji Miao (缪恒基)<br>
 Yuanqiao Tang (汤远桥)<br>
 2025-2028
 
-Linjing Xing (刑琳婧)<br>
+Linjing Xing (邢琳婧)<br>
 2025-2028
 
 ***
