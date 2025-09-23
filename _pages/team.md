@@ -57,9 +57,6 @@ Tian Xu (许恬)<br>
 Siyue Zhou (周思乐)<br>
 2024-2027
 
-Bin Hu (胡彬)<br>
-2024-2027
-
 Lingpeng Mou (牟灵朋)<br>
 2024-2027
 
