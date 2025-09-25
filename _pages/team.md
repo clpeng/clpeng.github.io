@@ -90,6 +90,13 @@ Yuanqiao Tang (汤远桥)<br>
 Linjing Xing (邢琳婧)<br>
 2025-2028
 
+Heng Zhang (张恒)<br>
+2026-2029
+
+Qifei Chen (陈芑霏)<br>
+2026-2029
+
+***
 ***
 ### Alumni
 
