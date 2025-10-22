@@ -27,6 +27,7 @@ His research interests include computer vision and pattern recognition, and thei
 
 ***
 ### News
+- 2025.10, one paper titled "Masked Text Adversarial Training for Cloth-Changing Person Re-Identification" is accepted by IEEE TIFS.
 - 2025.10, one paper titled "DeepFidelity: Perceptual Forgery Fidelity Assessment for Deepfake Detection" is accepted by IEEE TCSVT.
 - 2025.10, Congratulations to Tian Xu, Yinyin Chen for receiving Postgraduate National Scholarship!
 - 2025.7, one paper titled "FairForensics: Mitigating Attribute Bias in Deepfake Detection by Integrating Texture and Attribute Features" is accepted by Neural Networks, which is finised by undergraduate. 

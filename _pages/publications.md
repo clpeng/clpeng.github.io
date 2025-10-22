@@ -11,11 +11,12 @@ nav_order: 1
 - **Chunlei Peng**, Tian Xu, Decheng Liu, Nannan Wang, Xinbo Gao. [Within 3DMM Space: Exploring Inherent 3D Artifact for Video Forgery Detection](https://ieeexplore.ieee.org/document/11095790/){:target="_blank"}. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 20: 7954-7965, 2025. 
 [<span style="color: red;">[Code]</span>](https://github.com/Cookie-XT/3DAD){:target="_blank"}
 - **Chunlei Peng**, Xiaoyi Luo, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. [Semantic Token Transformer for Face Forgery Detection](https://ieeexplore.ieee.org/document/10988609){:target="_blank"}. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 20: 4904 - 4914, 2025.  
-- **Chunlei Peng**, Huiqing Guo, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. DeepFidelity: Perceptual Forgery Fidelity Assessment for Deepfake Detection. *IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**)*, 2025. 
+- **Chunlei Peng**, Huiqing Guo, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. [DeepFidelity: Perceptual Forgery Fidelity Assessment for Deepfake Detection](https://ieeexplore.ieee.org/document/11203008){:target="_blank"}. *IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**)*, 2025. 
 [<span style="color: red;">[Code]</span>](https://github.com/shimmer-ghq/DeepFidelity){:target="_blank"}
+- **Chunlei Peng**, Boyu Wang, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. [Masked Attribute Description Embedding for Cloth-Changing Person Re-identification](https://ieeexplore.ieee.org/document/10814721){:target="_blank"}. *IEEE Transactions on Multimedia (**IEEE TMM**)*, 27: 1475-1485, 2025.
+- Chengrui Hao, Boyu Wang, **Chunlei Peng**, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. Masked Text Adversarial Training for Cloth-Changing Person Re-Identification. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 2025.
 - Decheng Liu, Rong Sheng, **Chunlei Peng\***, Nannan Wang, Ruimin Hu, Xinbo Gao. [Devil in Shadow: Attacking NIR-VIS Heterogeneous Face Recognition via Adversarial Shadow](https://ieeexplore.ieee.org/document/10734388){:target="_blank"}. *IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**)*, 35(2): 1362-1373, 2025. 
 [<span style="color: red;">[Code]</span>](https://github.com/GEaMU/Devil-in-Shadow){:target="_blank"}
-- **Chunlei Peng**, Boyu Wang, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. [Masked Attribute Description Embedding for Cloth-Changing Person Re-identification](https://ieeexplore.ieee.org/document/10814721){:target="_blank"}. *IEEE Transactions on Multimedia (**IEEE TMM**)*, 27: 1475-1485, 2025.
 - Decheng Liu, Tao Chen, **Chunlei Peng\***, Nannan Wang, Ruimin Hu, Xinbo Gao. [Improving Adversarial Robustness via Decoupled Visual Representation Masking](https://ieeexplore.ieee.org/document/11028115){:target="_blank"}. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 20: 5678-5689, 2025.
 [<span style="color: red;">[Code]</span>](https://github.com/chenboluo/Adversarial-defenseD){:target="_blank"}
 - Decheng Liu, Weizhao Yang, **Chunlei Peng\***, Nannan Wang, Ruimin Hu, Xinbo Gao. [PrivacyHFR: Visual Privacy Preserving for Heterogeneous Face Recognition](https://ieeexplore.ieee.org/document/11018236){:target="_blank"}. *IEEE Transactions on Image Processing (**IEEE TIP**)*, 34: 3417-3430, 2025. 
@@ -32,6 +33,7 @@ nav_order: 1
 - Decheng Liu, Xu Luo, Yu Zheng, **Chunlei Peng\***. Cross-Domain Matrix Compression Adaptation for Zero-Shot Sketch-Based Image Retrieval. *International Joint Conference on Neural Networks (**IJCNN**)*, 2025.
 - Yuhao Wang, Qixuan Su, Decheng Liu, **Chunlei Peng**. [Imperceptible Face Forgery Attack via Adversarial Semantic Mask](http://chunleipeng.com){:target="_blank"}. 
 *Proceedings of Chinese Conference on Pattern Recognition and Computer Vision (**PRCV**)*, 2025.
+- Tian Xu, Shuang Wan, Yu Zheng, Decheng Liu, **Chunlei Peng**. SGAnonym: A Privacy-Preserving Semantic-Guided Network for Controllable Face Anonymization.  *CSIG Chinese Conference on Media Forensics and Security (**ChinaMFS**)*, 2025.
 
 ***
 #### 2024
