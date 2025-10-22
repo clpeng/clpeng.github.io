@@ -27,6 +27,7 @@ His research interests include computer vision and pattern recognition, and thei
 
 ***
 ### News
+- 2025,10, Chunlei Peng received the Duan Baoyan Award for Scientific and Educational Innovation!
 - 2025.10, one paper titled "Masked Text Adversarial Training for Cloth-Changing Person Re-Identification" is accepted by IEEE TIFS.
 - 2025.10, one paper titled "DeepFidelity: Perceptual Forgery Fidelity Assessment for Deepfake Detection" is accepted by IEEE TCSVT.
 - 2025.10, Congratulations to Tian Xu, Yinyin Chen for receiving Postgraduate National Scholarship!
@@ -38,6 +39,9 @@ His research interests include computer vision and pattern recognition, and thei
 
 ***
 ### Awards
+- 2025，Duan Baoyan Award for Scientific and Educational Innovation <br>
+段宝岩科教创新奖
+
 - 2024, The Innovation Capability Support Plan in Shaanxi Province <br>
 陕西省青年科技新星
 
