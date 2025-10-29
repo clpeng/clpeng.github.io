@@ -27,14 +27,13 @@ His research interests include computer vision and pattern recognition, and thei
 
 ***
 ### News
-- 2025,10, Chunlei Peng received the Duan Baoyan Award for Scientific and Educational Innovation!
+- 2025.10, one paper titled "SketchAging: Face Photo-Sketch Synthesis and Aging with Multi-Scale Feature Extraction" is accpeted by IEEE TIP.
+- 2025,10, Chunlei Peng received the Duan Baoyan Award for Scientific and Educational Innovation (段宝岩科教创新奖)!
 - 2025.10, one paper titled "Masked Text Adversarial Training for Cloth-Changing Person Re-Identification" is accepted by IEEE TIFS.
 - 2025.10, one paper titled "DeepFidelity: Perceptual Forgery Fidelity Assessment for Deepfake Detection" is accepted by IEEE TCSVT.
 - 2025.10, Congratulations to Tian Xu, Yinyin Chen for receiving Postgraduate National Scholarship!
 - 2025.7, one paper titled "FairForensics: Mitigating Attribute Bias in Deepfake Detection by Integrating Texture and Attribute Features" is accepted by Neural Networks, which is finised by undergraduate. 
 - 2025.7, one paper titled "Within 3DMM Space: Exploring Inherent 3D Artifact for Video Forgery Detection" is accepted by IEEE TIFS.
-- 2025.6, one paper titled "Improving Adversarial Robustness via Decoupled Visual Representation Masking" is accepted by IEEE TIFS.
-- 2025.5, one paper titled "PrivacyHFR: Visual Privacy Preserving for Heterogeneous Face Recognition" is accepted by IEEE TIP.
 
 
 ***
