@@ -172,7 +172,6 @@ Wuxi, 2023.06
 <div style="text-align: left;">
   <img class="avatar" src="../assets/img/2021VALSE.jpg" style="width: 50%; height: auto;">
 </div>
-<br>
 Hangzhou, 2021.10
-
+<br>
 
