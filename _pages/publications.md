@@ -11,6 +11,7 @@ nav_order: 1
 1. Jiuyao Jing, Yu Zheng, **Chunlei Peng\***. ResProto-FD: Visual-Language Residual Prototype Sets for Generalized Face Forgery Detection. *AAAI Conference on Artificial Intelligence (**AAAI**)*, 2026.
 
 #### 2025
+21. **彭春蕾**，李俊晔，刘德成，王楠楠，胡瑞敏，高新波. **大模型时代的深度伪造检测**. **中国科学: 信息科学**, 2025.
 20. **Chunlei Peng**, Tian Xu, Decheng Liu, Nannan Wang, Xinbo Gao. [Within 3DMM Space: Exploring Inherent 3D Artifact for Video Forgery Detection](https://ieeexplore.ieee.org/document/11095790/){:target="_blank"}. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 20: 7954-7965, 2025. 
 [<span style="color: red;">[Code]</span>](https://github.com/Cookie-XT/3DAD){:target="_blank"}
 19. **Chunlei Peng**, Xiaoyi Luo, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. [Semantic Token Transformer for Face Forgery Detection](https://ieeexplore.ieee.org/document/10988609){:target="_blank"}. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 20: 4904 - 4914, 2025.  

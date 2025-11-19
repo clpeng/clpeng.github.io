@@ -27,6 +27,7 @@ His research interests include computer vision and pattern recognition, and thei
 
 ***
 ### News
+- 2025.11, one paper titled "Deepfake detection in the era of large models (**大模型时代的深度伪造检测)**" is accepted by SCIENTIA SINICA Informationis (**中国科学 : 信息科学**)! 
 - 2025.11, one paper titled "ResProto-FD: Visual-Language Residual Prototype Sets for Generalized Face Forgery Detection" is accepted by **AAAI 2026**! Congrates to Jiuyao Jing!
 - 2025.11, one paper titled "Toward Fair Adversarial Defense via Class Encourage-suppress Robust Learning" is accepted by **IEEE TIFS**.
 - 2025.10, one paper titled "SketchAging: Face Photo-Sketch Synthesis and Aging with Multi-Scale Feature Extraction" is accpeted by **IEEE TIP**.
