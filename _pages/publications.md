@@ -8,7 +8,10 @@ nav_order: 1
 ---
 
 #### 2026
-1. Jiuyao Jing, Yu Zheng, **Chunlei Peng\***. ResProto-FD: Visual-Language Residual Prototype Sets for Generalized Face Forgery Detection. *AAAI Conference on Artificial Intelligence (**AAAI**)*, 2026.
+1. Tao Chen, Jingyi Zhang, Decheng Liu, **Chunlei Peng\***. MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM. *The ACM Web Conference (**WWW**)*, 2026. 
+2. Jiuyao Jing, Yu Zheng, **Chunlei Peng\***. ResProto-FD: Visual-Language Residual Prototype Sets for Generalized Face Forgery Detection. *AAAI Conference on Artificial Intelligence (**AAAI**)*, 2026.
+[<span style="color: red;">[Code]</span>](https://github.com/YiAo-JJ/ResProto-FD){:target="_blank"}
+3. Xinglin Lian, Yu Zheng, Yan Liu, Fan Zhou, Chunlei Peng, Xinbo Gao. Contextual Masking Distillation for Network Traffic Anomaly Detection. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 2026. 
 
 #### 2025
 22. **Chunlei Peng**, Tianzhe Yan, Decheng Liu, Nannan Wang, Ruimin Hu, and Xinbo Gao. Face Forgery Detection with CLIP-Enhanced Multi-Encoder Distillation. *IEEE Transactions on Image Processing (**IEEE TIP**)*, 2025.
@@ -19,6 +22,7 @@ nav_order: 1
 18. **Chunlei Peng**, Huiqing Guo, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. [DeepFidelity: Perceptual Forgery Fidelity Assessment for Deepfake Detection](https://ieeexplore.ieee.org/document/11203008){:target="_blank"}. *IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**)*, 2025. 
 [<span style="color: red;">[Code]</span>](https://github.com/shimmer-ghq/DeepFidelity){:target="_blank"}
 17. **Chunlei Peng**, Boyu Wang, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. [Masked Attribute Description Embedding for Cloth-Changing Person Re-identification](https://ieeexplore.ieee.org/document/10814721){:target="_blank"}. *IEEE Transactions on Multimedia (**IEEE TMM**)*, 27: 1475-1485, 2025.
+[<span style="color: red;">[Code]</span>](https://github.com/moon-wh/MADE){:target="_blank"}
 16. **Chunlei Peng**, Zhuang Tang, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. [SketchAging: Face Photo-Sketch Synthesis and Aging with Multi-Scale Feature Extraction](https://ieeexplore.ieee.org/document/11231090){:target="_blank"}. *IEEE Transactions on Image Processing (**IEEE TIP**)*, 2025.
 15. Chengrui Hao, Boyu Wang, **Chunlei Peng\***, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. [Masked Text Adversarial Training for Cloth-Changing Person Re-Identification](https://ieeexplore.ieee.org/document/11218207){:target="_blank"}. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 20: 11516-11527, 2025.
 14. Decheng Liu, Zhou Zhou, **Chunlei Peng\***, Nannan Wang, Ruimin Hu, Xinbo Gao. [Toward Fair Adversarial Defense via Class Encourage-suppress Robust Learning](https://ieeexplore.ieee.org/document/11244123){:target="_blank"}. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 20: 12275-12284, 2025.

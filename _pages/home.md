@@ -27,6 +27,7 @@ His research interests include computer vision and pattern recognition, and thei
 
 ***
 ### News
+- 2026.01, one paper titled "MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM" is accepted by **WWW 2026**! Congrates to Tao Chen!
 - 2025.12, one paper titled "Face Forgery Detection with CLIP-Enhanced Multi-Encoder Distillation" is accepted by **IEEE TIP**.
 - 2025.11, one paper titled "Deepfake detection in the era of large models (**大模型时代的深度伪造检测)**" is accepted by SCIENTIA SINICA Informationis (**中国科学 : 信息科学**)! 
 - 2025.11, one paper titled "ResProto-FD: Visual-Language Residual Prototype Sets for Generalized Face Forgery Detection" is accepted by **AAAI 2026**! Congrates to Jiuyao Jing!
