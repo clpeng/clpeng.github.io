@@ -24,6 +24,9 @@ Jiuyao Jing (荆久耀)<br>
 Jinyong Chen (陈金永)<br>
 2025f-
 
+Zhengxuan Zhang (张正瑄)<br>
+2024-2026s-
+
 ***
 ### Master Students
 
@@ -60,13 +63,7 @@ Siyue Zhou (周思乐)<br>
 Lingpeng Mou (牟灵朋)<br>
 2024-2027
 
-Yujie Yao (姚宇杰)<br>
-2024-2027
-
 Runxian Wang (王润贤)<br>
-2024-2027
-
-Zhengxuan Zhang (张正瑄)<br>
 2024-2027
 
 Xiaodi Duan (段晓迪)<br>
