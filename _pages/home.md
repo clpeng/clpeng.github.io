@@ -27,6 +27,7 @@ His research interests include computer vision and pattern recognition, and thei
 
 ***
 ### News
+- 2026.02, Chunlei Peng reveived the Young Talent of Shaanxi Province (**陕西省青年拔尖人才**)!
 - 2026.02, one paper titled "Adaptive Consensus Multi-Teacher Distillation for Generalizable Face Forgery Detection" is accepted by **IEEE TCSVT**.
 - 2026.01, one paper titled "MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM" is accepted by **WWW 2026**! Congrates to Tao Chen!
 - 2025.12, one paper titled "Face Forgery Detection with CLIP-Enhanced Multi-Encoder Distillation" is accepted by **IEEE TIP**.
@@ -42,10 +43,13 @@ His research interests include computer vision and pattern recognition, and thei
 
 ***
 ### Awards
-- 2025，Duan Baoyan Award for Scientific and Educational Innovation <br>
+- 2026, Young Talent of Shaanxi Province <br>
+陕西省青年拔尖人才
+
+- 2025, Duan Baoyan Award for Scientific and Educational Innovation <br>
 段宝岩科教创新奖
 
-- 2024, The Innovation Capability Support Plan in Shaanxi Province <br>
+- 2025, The Innovation Capability Support Plan in Shaanxi Province <br>
 陕西省青年科技新星
 
 - 2023, WuWenJun AI Excellent Young Scientist Award <br>
