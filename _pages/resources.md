@@ -24,7 +24,7 @@ Since this section is for potential students in China, the page is written in Ch
 
 - 编程学习
     - Python: 学习[莫烦Python视频教程](https://www.bilibili.com/video/BV1wW411Y7ai?vd_source=697351074ad91a889b019a8b54b2878c&spm_id_from=333.788.videopod.episodes){:target="_blank"}，进一步可以学习[莫烦Python交互式学习](https://mofanpy.com/tutorials/python-basic/interactive-python/){:target="_blank"}、[Phthon RUNOOB](https://www.runoob.com/python3/python3-tutorial.html){:target="_blank"};
-    - Pytorch: 学习[Pytorch官方Tutorial](https://docs.pytorch.org/tutorials/beginner/basics/intro.html/){:target="_blank"}，使用Anaconda,、Pycharm等IDE工具，进一步可以学习[莫烦Pytorch教程](https://mofanpy.com/tutorials/machine-learning/torch/){:target="_blank"}、[小土堆Pytorch教程](https://www.bilibili.com/video/BV1hE411t7RN?vd_source=697351074ad91a889b019a8b54b2878c&spm_id_from=333.788.videopod.episodes){:target="_blank"};
+    - Pytorch: 学习[Pytorch官方Tutorial](https://docs.pytorch.org/tutorials/index.html){:target="_blank"}中的Intro和Domains，使用Anaconda,、Pycharm等IDE工具，进一步可以学习[莫烦Pytorch教程](https://mofanpy.com/tutorials/machine-learning/torch/){:target="_blank"}、[小土堆Pytorch教程](https://www.bilibili.com/video/BV1hE411t7RN?vd_source=697351074ad91a889b019a8b54b2878c&spm_id_from=333.788.videopod.episodes){:target="_blank"};
     - Linux: 学习[莫烦Linux视频课程](https://www.bilibili.com/video/BV1zx411E7KH?vd_source=697351074ad91a889b019a8b54b2878c&spm_id_from=333.788.videopod.episodes&p=4){:target="_blank"}，进一步可以学习[Linux RUNOOB](https://www.runoob.com/linux/linux-tutorial.html){:target="_blank"};
 
 - 科研基础
