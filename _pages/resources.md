@@ -20,7 +20,7 @@ Since this section is for potential students in China, the page is written in Ch
         - 同样完成对应的作业并学习相关作业讲解；
     - 进一步可以学习
         - [吴恩达机器学习课程](https://search.bilibili.com/all?keyword=%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B&from_source=webtop_search&spm_id_from=333.1007&search_source=5){:target="_blank"}；
-        - [李沐动手学深度学习pytorch版](https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%B2%90%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0pytorch%E7%89%88&from_source=webtop_search&spm_id_from=333.1007&search_source=5){:target="_blank"}；
+        - 李沐动手学深度学习pytorch版[视频](https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%B2%90%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0pytorch%E7%89%88&from_source=webtop_search&spm_id_from=333.1007&search_source=5){:target="_blank"}，[网页](https://zh.d2l.ai/chapter_preface/index.html#){:target="_blank"}；
 
 - 编程学习
     - Python: 学习[莫烦Python视频教程](https://www.bilibili.com/video/BV1wW411Y7ai?vd_source=697351074ad91a889b019a8b54b2878c&spm_id_from=333.788.videopod.episodes){:target="_blank"}，进一步可以学习[莫烦Python交互式学习](https://mofanpy.com/tutorials/python-basic/interactive-python/){:target="_blank"}、[Phthon RUNOOB](https://www.runoob.com/python3/python3-tutorial.html){:target="_blank"};
