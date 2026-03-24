@@ -27,6 +27,7 @@ His research interests include computer vision and pattern recognition, and thei
 
 ***
 ### News
+- 2026.03, one paper titled "Component-Specific Prompt Tuning for Deepfake Detection" is accepted by **IEEE TIFS**.
 - 2026.02, Chunlei Peng reveived the Young Talent of Shaanxi Province (**陕西省青年拔尖人才**)!
 - 2026.02, one paper titled "Adaptive Consensus Multi-Teacher Distillation for Generalizable Face Forgery Detection" is accepted by **IEEE TCSVT**.
 - 2026.01, one paper titled "MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM" is accepted by **WWW 2026**! Congrates to Tao Chen!
