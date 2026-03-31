@@ -8,7 +8,8 @@ nav_order: 1
 ---
 
 #### 2026
-6. Yinyin Chen, Huiqing Guo, **Chunlei Peng\***, Nannan Wang, Xinbo Gao. Component-Specific Prompt Tuning for Deepfake Detection. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 2026.
+7. Yinyin Chen, Huiqing Guo, **Chunlei Peng\***, Nannan Wang, Xinbo Gao. Component-Specific Prompt Tuning for Deepfake Detection. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 2026.
+6. Decheng Liu, Yuhang Yang, **Chunlei Peng\***, Nannan Wang, Ruimin Hu, Xinbo Gao. Less is More: Semantic Patch Quality Augmented Cross-modality Representation for Visible-infrared Person Re-identification. *IEEE Transactions on Multimedia (**IEEE TMM**)*, 2026.
 5. Jiuyao Jing, Feiyang Sun, **Chunlei Peng\***, Decheng Liu, Nannan Wang, Xinbo Gao. Adaptive Consensus Multi-Teacher Distillation for Generalizable Face Forgery Detection. *IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**)*, 2026.
 4. **彭春蕾**，李俊晔，刘德成，王楠楠，胡瑞敏，高新波. **[大模型时代的深度伪造检测](https://www.sciengine.com/SSI/doi/10.1360/SSI-2025-0289){:target="_blank"}**. **中国科学: 信息科学**, 56(1): 1-22, 2026.
 3. Tao Chen, Jingyi Zhang, Decheng Liu, **Chunlei Peng\***. MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM. *The ACM Web Conference (**WWW**)*, 2026. 
