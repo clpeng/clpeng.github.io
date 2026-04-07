@@ -93,6 +93,12 @@ Heng Zhang (张恒)<br>
 Qifei Chen (陈芑霏)<br>
 2026-2029
 
+Yuchen Han (韩雨辰)<br>
+2026-2029
+
+Zhenxuan Hong (洪振轩)<br>
+2026-2029
+
 ***
 ***
 ### Alumni

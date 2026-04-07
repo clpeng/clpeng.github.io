@@ -13,7 +13,7 @@ nav_order: 1
 5. Jiuyao Jing, Feiyang Sun, **Chunlei Peng\***, Decheng Liu, Nannan Wang, Xinbo Gao. Adaptive Consensus Multi-Teacher Distillation for Generalizable Face Forgery Detection. *IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**)*, 2026.
 4. **彭春蕾**，李俊晔，刘德成，王楠楠，胡瑞敏，高新波. **[大模型时代的深度伪造检测](https://www.sciengine.com/SSI/doi/10.1360/SSI-2025-0289){:target="_blank"}**. **中国科学: 信息科学**, 56(1): 1-22, 2026.
 3. Tao Chen, Jingyi Zhang, Decheng Liu, **Chunlei Peng\***. MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM. *The ACM Web Conference (**WWW**)*, 2026. 
-2. Jiuyao Jing, Yu Zheng, **Chunlei Peng\***. ResProto-FD: Visual-Language Residual Prototype Sets for Generalized Face Forgery Detection. *AAAI Conference on Artificial Intelligence (**AAAI**)*, 2026.
+2. Jiuyao Jing, Yu Zheng, **Chunlei Peng\***. [ResProto-FD: Visual-Language Residual Prototype Sets for Generalized Face Forgery Detection](https://ojs.aaai.org/index.php/AAAI/article/view/37473){:target="_blank"}. *AAAI Conference on Artificial Intelligence (**AAAI**)*, 40(7): 5548-‌5556, 2026.
 [<span style="color: red;">[Code]</span>](https://github.com/YiAo-JJ/ResProto-FD){:target="_blank"}
 1. Xinglin Lian, Yu Zheng, Yan Liu, Fan Zhou, **Chunlei Peng**, Xinbo Gao. Contextual Masking Distillation for Network Traffic Anomaly Detection. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 2026. 
 
