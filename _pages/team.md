@@ -158,6 +158,11 @@ Yuhang Yang (杨雨航)<br>
 
 ***
 <div style="text-align: left;">
+  <img class="avatar" src="../assets/img/2026VALSE.jpg" style="width: 50%; height: auto;">
+</div>
+Wuhan, 2026.05.
+<br>
+<div style="text-align: left;">
   <img class="avatar" src="../assets/img/2025VALSE.jpg" style="width: 50%; height: auto;">
 </div>
 Zhuhai, 2025.05.
@@ -177,4 +182,5 @@ Wuxi, 2023.06
 </div>
 Hangzhou, 2021.10
 <br>
+
 
