@@ -49,7 +49,6 @@ nav_order: 1
 3. Decheng Liu, Xu Luo, Yu Zheng, **Chunlei Peng\***. Cross-Domain Matrix Compression Adaptation for Zero-Shot Sketch-Based Image Retrieval. *International Joint Conference on Neural Networks (**IJCNN**)*, 2025.
 2. Yuhao Wang, Qixuan Su, Decheng Liu, **Chunlei Peng**. [Imperceptible Face Forgery Attack via Adversarial Semantic Mask](http://chunleipeng.com){:target="_blank"}. 
 *Proceedings of Chinese Conference on Pattern Recognition and Computer Vision (**PRCV**)*, 2025.
-1. Tian Xu, Shuang Wan, Yu Zheng, Decheng Liu, **Chunlei Peng\***. SGAnonym: A Privacy-Preserving Semantic-Guided Network for Controllable Face Anonymization.  *CSIG Chinese Conference on Media Forensics and Security (**ChinaMFS**)*, 2025.
 
 ***
 #### 2024
