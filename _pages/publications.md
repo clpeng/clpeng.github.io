@@ -8,6 +8,7 @@ nav_order: 1
 ---
 
 #### 2026
+8. Ruiying Lu, Yupeng Lai, **Chunlei Peng\***, Nannan Wang, Ruimin Hu, Xinbo Gao. Flex-Face: Privacy-protect Face Recognition via Flexible Identity-consistent Face Anonymization. *IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**)*, 2026.
 7. Yinyin Chen, Huiqing Guo, **Chunlei Peng\***, Nannan Wang, Xinbo Gao. Component-Specific Prompt Tuning for Deepfake Detection. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 2026.
 6. Decheng Liu, Yuhang Yang, **Chunlei Peng\***, Nannan Wang, Ruimin Hu, Xinbo Gao. Less is More: Semantic Patch Quality Augmented Cross-modality Representation for Visible-infrared Person Re-identification. *IEEE Transactions on Multimedia (**IEEE TMM**)*, 2026.
 5. Jiuyao Jing, Feiyang Sun, **Chunlei Peng\***, Decheng Liu, Nannan Wang, Xinbo Gao. Adaptive Consensus Multi-Teacher Distillation for Generalizable Face Forgery Detection. *IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**)*, 2026.

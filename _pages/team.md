@@ -30,30 +30,6 @@ Zhengxuan Zhang (张正瑄)<br>
 ***
 ### Master Students
 
-Rong Sheng (盛荣)<br>
-2023-2026
-
-Yupeng Lai (赖玉鹏)<br>
-2023-2026
-
-Tianzhe Yan (严添喆)<br>
-2023-2026
-
-Youdong Luo (罗友东)<br>
-2023-2026
-
-Zhou Zhou (周洲)<br>
-2023-2026
-
-Zhuang Tang (汤壮)<br>
-2023-2026
-
-Hongyu Deng (邓宏宇)<br>
-2023-2026
-
-Xinyi Wang (王心怡)<br>
-2023-2026
-
 Tian Xu (许恬)<br>
 2024-2027
 
@@ -153,6 +129,30 @@ Boyu Wang (王博煜)<br>
 
 Yuhang Yang (杨雨航)<br>
 2022-2025, 网易（杭州）
+
+Rong Sheng (盛荣)<br>
+2023-2026, 电信
+
+Yupeng Lai (赖玉鹏)<br>
+2023-2026，中信科移动
+
+Tianzhe Yan (严添喆)<br>
+2023-2026，京东
+
+Youdong Luo (罗友东)<br>
+2023-2026，事业单位
+
+Zhou Zhou (周洲)<br>
+2023-2026，银行
+
+Zhuang Tang (汤壮)<br>
+2023-2026，事业单位
+
+Hongyu Deng (邓宏宇)<br>
+2023-2026，天翼云
+
+Xinyi Wang (王心怡)<br>
+2023-2026，京东
 
 
 
