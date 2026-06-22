@@ -16,6 +16,7 @@ nav_order: 1
 3. Tao Chen, Jingyi Zhang, Decheng Liu, **Chunlei Peng\***. MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM. *The ACM Web Conference (**WWW**)*, 2026. 
 2. Jiuyao Jing, Yu Zheng, **Chunlei Peng\***. [ResProto-FD: Visual-Language Residual Prototype Sets for Generalized Face Forgery Detection](https://ojs.aaai.org/index.php/AAAI/article/view/37473){:target="_blank"}. *AAAI Conference on Artificial Intelligence (**AAAI**)*, 40(7): 5548-‌5556, 2026.
 [<span style="color: red;">[Code]</span>](https://github.com/YiAo-JJ/ResProto-FD){:target="_blank"}
+1. Ruiying Lu, Shuang Wan, Zimin Miao, Nannan Wang, **Chunlei Peng\***. IDCFace: Identity Consistent Face Anonymization for Secure Recognition. **Pattern Recognition**, 2026.
 1. Xinglin Lian, Yu Zheng, Yan Liu, Fan Zhou, **Chunlei Peng**, Xinbo Gao. Contextual Masking Distillation for Network Traffic Anomaly Detection. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 2026. 
 
 #### 2025
