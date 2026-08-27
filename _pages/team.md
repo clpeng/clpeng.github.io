@@ -154,6 +154,8 @@ Hongyu Deng (邓宏宇)<br>
 Xinyi Wang (王心怡)<br>
 2023-2026，京东
 
+Juan Cao (曹娟)<br>
+2023-2026，事业单位
 
 
 ***
