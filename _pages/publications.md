@@ -8,6 +8,7 @@ nav_order: 1
 ---
 
 #### 2026
+9. **Chunlei Peng**, Hongyu Deng, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao. Sketch3D: Multi-view Face Sketch Synthesis with Geometry-aware Generation. *IEEE Transactions on Multimedia (**IEEE TMM**)*, 2026.
 8. Ruiying Lu, Yupeng Lai, **Chunlei Peng\***, Nannan Wang, Ruimin Hu, Xinbo Gao. Flex-Face: Privacy-protect Face Recognition via Flexible Identity-consistent Face Anonymization. *IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**)*, 2026.
 7. Yinyin Chen, Huiqing Guo, **Chunlei Peng\***, Nannan Wang, Xinbo Gao. Component-Specific Prompt Tuning for Deepfake Detection. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 2026.
 6. Decheng Liu, Yuhang Yang, **Chunlei Peng\***, Nannan Wang, Ruimin Hu, Xinbo Gao. Less is More: Semantic Patch Quality Augmented Cross-modality Representation for Visible-infrared Person Re-identification. *IEEE Transactions on Multimedia (**IEEE TMM**)*, 2026.
@@ -18,6 +19,7 @@ nav_order: 1
 [<span style="color: red;">[Code]</span>](https://github.com/YiAo-JJ/ResProto-FD){:target="_blank"}
 1. Ruiying Lu, Shuang Wan, Zimin Miao, Nannan Wang, **Chunlei Peng\***. IDCFace: Identity Consistent Face Anonymization for Secure Recognition. **Pattern Recognition**, 2026.
 1. Xinglin Lian, Yu Zheng, Yan Liu, Fan Zhou, **Chunlei Peng**, Xinbo Gao. Contextual Masking Distillation for Network Traffic Anomaly Detection. *IEEE Transactions on Information Forensics and Security (**IEEE TIFS**)*, 2026. 
+1. Tian Xu, Yu Zheng, **Chunlei Peng\***. Privacy-Preserving Semantic-Guided Network for Controllable Face Anonymization. *Chinese Conference on Biometric Recognition (CCBR)*, 2026.
 
 #### 2025
 21. **Chunlei Peng**, Tianzhe Yan, Decheng Liu, Nannan Wang, Ruimin Hu, and Xinbo Gao. [Face Forgery Detection with CLIP-Enhanced Multi-Encoder Distillation](https://ieeexplore.ieee.org/abstract/document/11306253){:target="_blank"}. *IEEE Transactions on Image Processing (**IEEE TIP**)*, 34: 8474 - 8484, 2025.

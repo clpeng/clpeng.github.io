@@ -27,6 +27,7 @@ His research interests include computer vision and pattern recognition, and thei
 
 ***
 ### News
+- 2026.11, one paper titled "Sketch3D: Multi-view Face Sketch Synthesis with Geometry-aware Generation" is accepted by **IEEE TMM**.
 - 2026.06, one paper titled "Flex-Face: Privacy-protect Face Recognition via Flexible Identity-consistent Face Anonymization" is accepted by **IEEE TDSC**.
 - 2026.03, one paper titled "Component-Specific Prompt Tuning for Deepfake Detection" is accepted by **IEEE TIFS**.
 - 2026.03, one paper titled "Less is More: Semantic Patch Quality Augmented Cross-modality Representation for Visible-infrared Person Re-identification" is accepted by **IEEE TMM**.
